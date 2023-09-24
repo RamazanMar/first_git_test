@@ -74,6 +74,8 @@ def get_longest_palindrome(origin: str, /) -> str:
     return origin[a:b]
 
 
+
+
 def are_parentheses_balanced(origin: str, /) -> bool:
     """
     Return a validation result for a given parentheses sequence
